@@ -22,7 +22,7 @@ Resposta em ~90s: 3 variações + recomendação. [Veja exemplo](examples/exampl
 ### One-liner (recomendado)
 
 ```bash
-curl -sSL https://marfin.co/install.sh | sh -s cold-email-engine
+curl -sSL https://raw.githubusercontent.com/marfin-lab/skills/main/install.sh | sh -s cold-email-engine
 ```
 
 ### Manual
